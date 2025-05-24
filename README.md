@@ -12,7 +12,6 @@ Este repositorio contiene material elaborado para el curso **"Técnicas de Intel
 ## 👤 Autor
 
 **José Luis Martínez Rodríguez**  
-Ayudante de curso
 
 ## 📝 Licencia
 
